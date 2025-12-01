@@ -6,6 +6,7 @@ Technologies used:
 - *JavaScript* for cleaning and transforming data
 - *Google Gemini* for personalized email generation
 - *Slack* and *Gmail* for communications
+- *Google Calendar* to check for availability
 - *Asana* for task management
 
 This system turns inbound leads from simple form submissions into fully qualified, enriched, and ready-to-outreach contacts, all without manual intervention. By combining company and lead enrichment, automated scoring, and AI-generated outreach, sales and marketing teams eliminate tedious research, reduce response times, and increase conversion by booking calls with warm leads immediately.
@@ -65,3 +66,7 @@ If these times do not work, schedule a time with me here: calendly.com/ingrid
 Ingrid from Central Money
 ingrid@centralmoney.com
 
+## Downloading and Importing this Automation into your n8n Workspace (for free!)
+1. Find the .json file in this repository and either select all the text and copy it, or download the file to your local computer by selecting "Download raw file".
+2. Log into your n8n instance and create a new blank workflow.
+3. If you copied the .json contents, simply paste the workflow into the blank canvas. If you downloaded the .json file, on the top-right of the screen, select the three dots and click on "Import from file...". Upload the .json file from your local computer.
