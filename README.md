@@ -32,13 +32,36 @@ This automation was created by *Ingrid Coll*. See my other projects on GitHub at
 - Delivers a complete, accurate lead profile and adds it to the CRM.
 - Highlights decision-makers and high-value prospects automatically.
 - Notifies the sales team by creating an Asana task and sending a message via Slack.
+
 ## In PHASE 3: Personalized Outreach Automation...
 ### Turns enriched lead and company data into a ready-to-send, highly personalized email for the assigned contact owner.
-Automatically fetches the lead and company profile from HubSpot once a contact owner is assigned.
-Uses Google Gemini AI to craft a tailored email based on the lead’s profile, interests, challenges, and company context. It even takes into account the latest LinkedIn activity to reference recently-liked posts!
-Verifies the contact owner’s availability to suggest meeting times.
-Creates a Gmail draft pre-populated with the personalized email and meeting options, ready for quick review and send.
-Provides a fully personalized, high-conversion email without manual drafting.
-Saves the sales team time while increasing engagement quality.
-Ensures outreach is timely, relevant, and aligned with the contact owner’s schedule, boosting the likelihood of booking meetings and advancing leads.
+<img width="1504" height="386" alt="image" src="https://github.com/user-attachments/assets/243ca9df-c29c-46ea-b399-ad853518add7" />
+
+- Automatically fetches the lead and company profile from HubSpot once a contact owner is assigned.
+- Uses Google Gemini AI to craft a tailored email based on the lead’s profile, interests, challenges, and company context. It even takes into account the latest LinkedIn activity to reference recently-liked posts!
+- Verifies the contact owner’s availability to suggest meeting times.
+- Creates a Gmail draft pre-populated with the personalized email and meeting options, ready for quick review and send.
+- Provides a fully personalized, high-conversion email without manual drafting.
+- Saves the sales team time while increasing engagement quality.
+- Ensures outreach is timely, relevant, and aligned with the contact owner’s schedule, boosting the likelihood of booking meetings and advancing leads.
+
+#### Sample Email Output:
+*(Names have been modified for anonymity purposes)*
+
+Hey Sarah,
+
+Just wanted to send a quick note ahead of our chat. I noticed you recently shared a post about Hotel Calabria (LinkedIn post link) – that's awesome! It sounds like a fantastic new venture and a great way to combine your hospitality background with your marketing expertise. It's clear you're all about creating systems that boost brand awareness and revenue, which really resonated with us. And congrats on Hotel & Lounge's new partnership with Marriott! That's a great win (LinkedIn post link).
+
+I'm excited to learn more about how Central Money can help Hotel & Lounge with revenue forecasting and modeling so you can keep making more money for the company and properly budget for the future. Looking forward to connecting soon!
+
+Here are my next available meeting times:
+
+- Nov 26, 2025, 5:00 PM - 6:00 PM
+- Nov 27, 2025, 9:30 AM - 10:30 AM
+- Nov 28, 2025, 9:30 AM - 10:30 AM
+
+If these times do not work, schedule a time with me here: calendly.com/ingrid
+
+Ingrid from Central Money
+ingrid@centralmoney.com
 
