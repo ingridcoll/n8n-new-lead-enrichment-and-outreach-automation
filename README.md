@@ -1,4 +1,4 @@
-# Inbound Lead Enrichment and AI Personalized Outreach Automation with n8n
+# Inbound Lead Enrichment and AI Outreach Automation (n8n)
 ### How to Turn a “Contact Us” Form Submission Into a Fully Automated Lead Enrichment System
 Technologies used: 
 - *HubSpot* as the CRM
